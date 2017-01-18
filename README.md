@@ -1,4 +1,4 @@
-culvers-osm-merge
-=================
+store-osm-merge
+===============
 
-Code to assist keeping Culver's fastfood locations up to date in OSM.
+Code to assist merging store point locations into OSM.
